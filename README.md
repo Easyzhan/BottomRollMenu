@@ -5,4 +5,4 @@
 ![image](https://ww1.sinaimg.cn/large/006tNbRwgy1fdgld5iyctj30ku12awh5.jpg)
 
 
-###课题可以进一步封装,暴露接口然后就可以通用了;
+### 可以进一步封装,暴露接口然后就可以通用了;
